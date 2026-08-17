@@ -1,5 +1,15 @@
 # Detecting water surfaces
 
+- [Detecting water surfaces](#detecting-water-surfaces)
+  - [Summary](#summary)
+  - [Motivation](#motivation)
+  - [Methods](#methods)
+  - [Results](#results)
+    - [RGB](#rgb)
+    - [NDWI](#ndwi)
+    - [SAR](#sar)
+  - [Publications](#publications)
+
 ## Summary
 
 This project started as a Master thesis project and was continued and published as a conference paper as well as extended in the scope for a PhD conference.
@@ -56,7 +66,7 @@ The detection in clear weather conditions and clear distinction between the surr
 ![slika](./images/example3.png)
 
 
-## Publications:
+## Publications
 [Detecting water surface borders on satellite images](https://ieeexplore.ieee.org/abstract/document/10569332)
 
 [Water Surface Detection Using Multi-Source Sentinel 
